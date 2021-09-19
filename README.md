@@ -13,3 +13,5 @@
 [5] - Flexbox
 
 [6] - AOS. Animation
+
+### Released in 19-9-2021
